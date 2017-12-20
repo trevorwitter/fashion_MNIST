@@ -1,4 +1,3 @@
-
 def load_mnist(path, kind='train'):
     import os
     import gzip
